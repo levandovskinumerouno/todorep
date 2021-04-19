@@ -75,3 +75,4 @@ function initTodo(init = []) {
 }
 
 initTodo()
+console.log(1);
